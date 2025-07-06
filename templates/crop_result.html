@@ -1,0 +1,62 @@
+<!-- templates/crop_result.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crop Recommendation Result</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f4fdf8;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .result-card {
+            max-width: 600px;
+            margin: auto;
+            border-radius: 16px;
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            background-color: #ffffff;
+        }
+        .tips {
+            background-color: #e6f9f0;
+            border-left: 5px solid #28a745;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 25px;
+        }
+        .tips h5 {
+            color: #1e7e34;
+            font-weight: 600;
+        }
+        .tips ul {
+            margin-left: 20px;
+            padding-left: 0;
+        }
+    </style>
+</head>
+<body>
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h2 class="text-success">🌾 Crop Recommendation Result</h2>
+        <p class="text-muted">Based on your soil and climate input, the most suitable crop is:</p>
+    </div>
+    <div class="result-card text-center">
+        <h4 class="mb-3">Recommended Crop</h4>
+        <p class="fs-3 text-primary fw-semibold">{{ crop }}</p>
+        <a href="/crop" class="btn btn-success mt-3 px-4">🔁 Try Another Prediction</a>
+
+        <div class="tips mt-4 text-start">
+            <h5>💡 Tips for Successful Crop Growth</h5>
+            <ul>
+                <li>Ensure timely irrigation based on the crop’s water requirement.</li>
+                <li>Regularly monitor for pests and weeds to avoid yield loss.</li>
+                <li>Use organic compost or fertilizers to enrich soil fertility.</li>
+                <li>Perform soil testing every season to adjust nutrient supply.</li>
+                <li>Rotate crops to prevent soil nutrient depletion.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>

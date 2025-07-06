@@ -1,0 +1,1001 @@
+crop_type,soil_type,deficiency_level,fertilizer
+cotton,loamy,nitrogen,MOP
+rice,loamy,phosphorus,super phosphate
+rice,loamy,nitrogen,super phosphate
+millet,clay,nitrogen,MOP
+cotton,sandy,potassium,urea
+maize,sandy,potassium,DAP
+wheat,sandy,phosphorus,super phosphate
+rice,sandy,potassium,DAP
+maize,loamy,potassium,DAP
+maize,sandy,phosphorus,super phosphate
+rice,clay,phosphorus,MOP
+millet,clay,nitrogen,urea
+barley,loamy,potassium,MOP
+millet,loamy,phosphorus,DAP
+cotton,sandy,phosphorus,urea
+maize,sandy,potassium,urea
+wheat,clay,phosphorus,urea
+maize,sandy,potassium,MOP
+barley,clay,potassium,MOP
+millet,loamy,potassium,MOP
+millet,loamy,phosphorus,DAP
+millet,loamy,phosphorus,DAP
+barley,sandy,phosphorus,urea
+millet,clay,potassium,urea
+cotton,loamy,nitrogen,urea
+millet,clay,phosphorus,super phosphate
+barley,sandy,nitrogen,urea
+cotton,clay,potassium,super phosphate
+millet,clay,phosphorus,super phosphate
+cotton,loamy,phosphorus,DAP
+millet,clay,nitrogen,super phosphate
+wheat,clay,phosphorus,urea
+maize,sandy,nitrogen,MOP
+millet,sandy,phosphorus,DAP
+rice,sandy,potassium,MOP
+millet,clay,nitrogen,super phosphate
+wheat,clay,phosphorus,super phosphate
+millet,sandy,potassium,DAP
+rice,clay,potassium,super phosphate
+rice,loamy,potassium,super phosphate
+maize,sandy,nitrogen,DAP
+rice,sandy,nitrogen,urea
+maize,loamy,potassium,DAP
+cotton,sandy,phosphorus,DAP
+millet,clay,potassium,MOP
+millet,sandy,phosphorus,urea
+barley,sandy,potassium,urea
+wheat,loamy,phosphorus,MOP
+rice,sandy,potassium,super phosphate
+barley,loamy,potassium,urea
+millet,clay,nitrogen,MOP
+barley,sandy,phosphorus,MOP
+rice,loamy,nitrogen,MOP
+rice,sandy,nitrogen,DAP
+millet,loamy,nitrogen,DAP
+maize,clay,phosphorus,MOP
+rice,sandy,potassium,urea
+rice,loamy,phosphorus,urea
+cotton,sandy,phosphorus,MOP
+maize,clay,phosphorus,DAP
+wheat,clay,phosphorus,DAP
+rice,sandy,potassium,super phosphate
+rice,sandy,phosphorus,urea
+rice,clay,nitrogen,super phosphate
+wheat,sandy,nitrogen,DAP
+rice,loamy,nitrogen,MOP
+cotton,sandy,phosphorus,urea
+rice,sandy,nitrogen,urea
+wheat,loamy,phosphorus,urea
+cotton,loamy,nitrogen,urea
+barley,loamy,phosphorus,super phosphate
+cotton,sandy,nitrogen,MOP
+millet,sandy,nitrogen,super phosphate
+cotton,loamy,potassium,DAP
+rice,clay,nitrogen,urea
+cotton,clay,potassium,DAP
+millet,sandy,phosphorus,MOP
+barley,loamy,potassium,super phosphate
+maize,clay,nitrogen,urea
+rice,clay,phosphorus,super phosphate
+cotton,sandy,phosphorus,MOP
+cotton,sandy,nitrogen,DAP
+barley,loamy,potassium,MOP
+wheat,loamy,nitrogen,DAP
+rice,clay,potassium,urea
+barley,loamy,nitrogen,DAP
+millet,clay,nitrogen,MOP
+maize,sandy,phosphorus,super phosphate
+cotton,sandy,phosphorus,MOP
+cotton,loamy,phosphorus,MOP
+maize,clay,phosphorus,urea
+barley,clay,nitrogen,DAP
+millet,clay,phosphorus,DAP
+maize,loamy,potassium,MOP
+millet,loamy,nitrogen,super phosphate
+maize,clay,phosphorus,urea
+rice,loamy,nitrogen,urea
+maize,loamy,phosphorus,DAP
+millet,sandy,phosphorus,urea
+rice,clay,nitrogen,MOP
+maize,clay,phosphorus,DAP
+wheat,sandy,nitrogen,DAP
+maize,clay,nitrogen,MOP
+rice,clay,potassium,DAP
+barley,sandy,nitrogen,MOP
+maize,loamy,phosphorus,DAP
+wheat,loamy,potassium,DAP
+cotton,sandy,phosphorus,urea
+rice,clay,nitrogen,DAP
+maize,sandy,phosphorus,MOP
+wheat,sandy,phosphorus,DAP
+rice,sandy,potassium,DAP
+cotton,loamy,nitrogen,MOP
+maize,clay,potassium,MOP
+maize,sandy,potassium,super phosphate
+maize,sandy,nitrogen,super phosphate
+millet,sandy,nitrogen,DAP
+cotton,loamy,potassium,MOP
+barley,sandy,phosphorus,DAP
+wheat,sandy,phosphorus,super phosphate
+millet,loamy,phosphorus,MOP
+cotton,loamy,potassium,urea
+maize,clay,nitrogen,super phosphate
+maize,loamy,nitrogen,MOP
+barley,loamy,potassium,DAP
+wheat,loamy,potassium,urea
+maize,clay,phosphorus,super phosphate
+cotton,loamy,nitrogen,urea
+barley,sandy,potassium,MOP
+barley,loamy,phosphorus,super phosphate
+barley,loamy,phosphorus,MOP
+wheat,loamy,nitrogen,DAP
+barley,clay,phosphorus,urea
+wheat,clay,phosphorus,urea
+wheat,clay,nitrogen,urea
+rice,loamy,nitrogen,DAP
+wheat,clay,potassium,MOP
+wheat,loamy,potassium,MOP
+maize,sandy,potassium,DAP
+millet,sandy,potassium,MOP
+rice,loamy,phosphorus,MOP
+barley,loamy,potassium,urea
+barley,sandy,potassium,DAP
+barley,clay,nitrogen,DAP
+barley,clay,potassium,super phosphate
+millet,loamy,phosphorus,urea
+wheat,clay,phosphorus,super phosphate
+maize,loamy,phosphorus,urea
+wheat,clay,potassium,DAP
+wheat,sandy,nitrogen,super phosphate
+millet,loamy,phosphorus,DAP
+barley,loamy,potassium,super phosphate
+millet,sandy,phosphorus,MOP
+cotton,clay,potassium,urea
+maize,clay,phosphorus,super phosphate
+barley,clay,phosphorus,urea
+cotton,loamy,nitrogen,super phosphate
+rice,loamy,potassium,super phosphate
+millet,loamy,nitrogen,DAP
+rice,sandy,potassium,DAP
+rice,sandy,potassium,super phosphate
+rice,clay,nitrogen,urea
+barley,loamy,nitrogen,DAP
+wheat,sandy,potassium,urea
+barley,clay,phosphorus,urea
+maize,loamy,phosphorus,super phosphate
+maize,clay,nitrogen,super phosphate
+barley,sandy,nitrogen,super phosphate
+maize,clay,nitrogen,MOP
+barley,sandy,potassium,super phosphate
+maize,sandy,potassium,MOP
+cotton,clay,potassium,super phosphate
+wheat,clay,nitrogen,DAP
+barley,clay,phosphorus,DAP
+cotton,loamy,potassium,super phosphate
+barley,loamy,potassium,urea
+millet,clay,phosphorus,super phosphate
+wheat,sandy,potassium,MOP
+barley,sandy,nitrogen,super phosphate
+maize,clay,potassium,super phosphate
+barley,loamy,potassium,DAP
+millet,sandy,nitrogen,super phosphate
+millet,clay,nitrogen,DAP
+wheat,sandy,potassium,MOP
+millet,clay,potassium,DAP
+barley,loamy,potassium,urea
+wheat,clay,nitrogen,MOP
+barley,loamy,nitrogen,MOP
+maize,sandy,nitrogen,super phosphate
+rice,clay,potassium,super phosphate
+barley,loamy,potassium,super phosphate
+maize,loamy,nitrogen,urea
+wheat,clay,potassium,DAP
+wheat,sandy,potassium,super phosphate
+barley,loamy,nitrogen,urea
+cotton,sandy,nitrogen,super phosphate
+maize,loamy,phosphorus,DAP
+maize,clay,potassium,urea
+maize,loamy,nitrogen,super phosphate
+maize,clay,potassium,urea
+millet,loamy,nitrogen,super phosphate
+wheat,clay,nitrogen,urea
+millet,sandy,nitrogen,super phosphate
+millet,clay,potassium,urea
+barley,sandy,phosphorus,super phosphate
+rice,sandy,nitrogen,urea
+barley,clay,nitrogen,MOP
+maize,clay,nitrogen,urea
+barley,clay,nitrogen,MOP
+maize,sandy,potassium,urea
+maize,clay,potassium,DAP
+millet,clay,nitrogen,super phosphate
+cotton,clay,phosphorus,MOP
+cotton,sandy,nitrogen,DAP
+cotton,loamy,phosphorus,urea
+maize,clay,nitrogen,MOP
+wheat,clay,nitrogen,super phosphate
+millet,loamy,nitrogen,super phosphate
+maize,loamy,nitrogen,urea
+millet,loamy,potassium,MOP
+rice,clay,nitrogen,super phosphate
+wheat,sandy,phosphorus,urea
+millet,sandy,potassium,DAP
+wheat,clay,potassium,MOP
+millet,sandy,phosphorus,DAP
+wheat,clay,potassium,MOP
+millet,loamy,nitrogen,MOP
+rice,sandy,potassium,super phosphate
+barley,sandy,potassium,DAP
+cotton,sandy,potassium,urea
+maize,clay,potassium,urea
+wheat,clay,potassium,super phosphate
+maize,sandy,nitrogen,urea
+maize,loamy,phosphorus,MOP
+maize,clay,phosphorus,DAP
+millet,clay,nitrogen,super phosphate
+millet,loamy,nitrogen,MOP
+wheat,sandy,nitrogen,super phosphate
+millet,loamy,nitrogen,DAP
+millet,loamy,phosphorus,DAP
+maize,sandy,nitrogen,DAP
+millet,sandy,potassium,DAP
+cotton,loamy,potassium,MOP
+maize,loamy,potassium,urea
+rice,loamy,nitrogen,DAP
+rice,sandy,nitrogen,DAP
+maize,clay,nitrogen,DAP
+maize,sandy,nitrogen,super phosphate
+millet,loamy,phosphorus,DAP
+millet,clay,nitrogen,super phosphate
+maize,sandy,nitrogen,MOP
+wheat,sandy,phosphorus,DAP
+wheat,loamy,nitrogen,MOP
+barley,loamy,nitrogen,super phosphate
+barley,loamy,potassium,super phosphate
+maize,loamy,nitrogen,super phosphate
+barley,clay,phosphorus,DAP
+cotton,sandy,nitrogen,MOP
+barley,loamy,phosphorus,super phosphate
+wheat,loamy,potassium,super phosphate
+rice,loamy,nitrogen,super phosphate
+maize,clay,nitrogen,urea
+rice,sandy,potassium,MOP
+barley,loamy,phosphorus,super phosphate
+millet,loamy,phosphorus,super phosphate
+wheat,sandy,potassium,urea
+barley,clay,nitrogen,super phosphate
+cotton,clay,nitrogen,super phosphate
+wheat,sandy,phosphorus,super phosphate
+millet,sandy,phosphorus,urea
+millet,loamy,phosphorus,DAP
+maize,loamy,nitrogen,MOP
+millet,sandy,potassium,urea
+millet,sandy,potassium,DAP
+wheat,sandy,phosphorus,DAP
+wheat,clay,potassium,DAP
+rice,clay,nitrogen,super phosphate
+barley,sandy,potassium,urea
+cotton,clay,phosphorus,DAP
+barley,loamy,potassium,MOP
+cotton,sandy,potassium,super phosphate
+cotton,loamy,potassium,super phosphate
+millet,clay,nitrogen,MOP
+maize,loamy,potassium,DAP
+millet,loamy,potassium,MOP
+rice,clay,phosphorus,urea
+rice,clay,potassium,super phosphate
+cotton,loamy,potassium,MOP
+millet,loamy,nitrogen,DAP
+wheat,clay,potassium,DAP
+maize,loamy,nitrogen,urea
+barley,sandy,nitrogen,DAP
+maize,clay,potassium,DAP
+maize,loamy,phosphorus,super phosphate
+millet,sandy,nitrogen,DAP
+rice,loamy,nitrogen,super phosphate
+rice,loamy,nitrogen,MOP
+rice,sandy,nitrogen,super phosphate
+barley,sandy,nitrogen,urea
+rice,loamy,nitrogen,urea
+rice,clay,potassium,urea
+barley,sandy,potassium,MOP
+barley,loamy,phosphorus,super phosphate
+wheat,loamy,potassium,MOP
+wheat,clay,phosphorus,super phosphate
+barley,sandy,nitrogen,MOP
+wheat,clay,nitrogen,super phosphate
+millet,loamy,potassium,DAP
+rice,sandy,nitrogen,MOP
+millet,clay,phosphorus,super phosphate
+cotton,sandy,potassium,super phosphate
+cotton,loamy,potassium,DAP
+rice,sandy,phosphorus,urea
+millet,loamy,nitrogen,MOP
+millet,loamy,nitrogen,super phosphate
+barley,sandy,potassium,urea
+wheat,loamy,phosphorus,urea
+millet,loamy,phosphorus,DAP
+millet,clay,potassium,urea
+maize,loamy,nitrogen,MOP
+millet,sandy,phosphorus,DAP
+barley,clay,phosphorus,DAP
+maize,clay,nitrogen,urea
+rice,loamy,potassium,urea
+maize,loamy,phosphorus,MOP
+maize,sandy,phosphorus,super phosphate
+millet,clay,potassium,DAP
+cotton,sandy,potassium,super phosphate
+rice,sandy,phosphorus,DAP
+cotton,sandy,nitrogen,MOP
+barley,sandy,potassium,super phosphate
+millet,sandy,potassium,super phosphate
+maize,clay,phosphorus,urea
+wheat,clay,nitrogen,urea
+wheat,sandy,potassium,DAP
+millet,clay,potassium,MOP
+maize,loamy,phosphorus,urea
+wheat,clay,potassium,DAP
+barley,loamy,phosphorus,MOP
+millet,clay,potassium,DAP
+rice,loamy,nitrogen,super phosphate
+wheat,clay,phosphorus,DAP
+barley,sandy,phosphorus,DAP
+cotton,loamy,nitrogen,urea
+cotton,loamy,phosphorus,urea
+wheat,sandy,potassium,super phosphate
+millet,clay,phosphorus,MOP
+millet,loamy,nitrogen,MOP
+maize,sandy,nitrogen,DAP
+millet,sandy,nitrogen,DAP
+barley,sandy,phosphorus,MOP
+millet,clay,nitrogen,super phosphate
+wheat,loamy,potassium,super phosphate
+wheat,loamy,phosphorus,urea
+cotton,sandy,phosphorus,MOP
+millet,clay,potassium,super phosphate
+rice,clay,phosphorus,urea
+millet,loamy,phosphorus,DAP
+cotton,clay,phosphorus,super phosphate
+wheat,clay,nitrogen,DAP
+millet,clay,potassium,urea
+wheat,sandy,potassium,urea
+millet,clay,phosphorus,super phosphate
+millet,clay,nitrogen,urea
+wheat,loamy,nitrogen,urea
+rice,sandy,potassium,MOP
+cotton,loamy,nitrogen,super phosphate
+maize,clay,nitrogen,DAP
+barley,loamy,phosphorus,DAP
+millet,sandy,phosphorus,urea
+barley,sandy,phosphorus,MOP
+millet,sandy,phosphorus,MOP
+rice,clay,nitrogen,urea
+rice,loamy,potassium,DAP
+rice,sandy,potassium,super phosphate
+wheat,sandy,potassium,urea
+cotton,clay,phosphorus,super phosphate
+millet,sandy,phosphorus,MOP
+cotton,clay,nitrogen,MOP
+rice,sandy,potassium,DAP
+barley,sandy,nitrogen,super phosphate
+cotton,sandy,potassium,super phosphate
+rice,sandy,potassium,urea
+maize,sandy,nitrogen,DAP
+cotton,sandy,nitrogen,urea
+cotton,loamy,phosphorus,urea
+rice,clay,potassium,DAP
+millet,clay,nitrogen,MOP
+rice,clay,nitrogen,MOP
+wheat,sandy,nitrogen,super phosphate
+millet,clay,nitrogen,MOP
+rice,sandy,phosphorus,super phosphate
+maize,sandy,phosphorus,MOP
+cotton,loamy,potassium,DAP
+millet,clay,potassium,urea
+maize,clay,nitrogen,DAP
+wheat,clay,nitrogen,DAP
+cotton,loamy,phosphorus,DAP
+millet,sandy,phosphorus,urea
+cotton,loamy,phosphorus,super phosphate
+millet,clay,phosphorus,super phosphate
+rice,loamy,potassium,super phosphate
+millet,clay,potassium,DAP
+rice,sandy,potassium,MOP
+millet,sandy,potassium,DAP
+millet,loamy,potassium,DAP
+barley,clay,phosphorus,super phosphate
+barley,clay,potassium,DAP
+rice,loamy,nitrogen,urea
+millet,sandy,phosphorus,urea
+wheat,sandy,nitrogen,MOP
+wheat,loamy,nitrogen,DAP
+wheat,clay,nitrogen,super phosphate
+maize,loamy,nitrogen,urea
+maize,sandy,potassium,MOP
+cotton,loamy,nitrogen,MOP
+millet,sandy,phosphorus,MOP
+cotton,clay,nitrogen,DAP
+wheat,loamy,nitrogen,MOP
+millet,sandy,potassium,super phosphate
+barley,sandy,nitrogen,MOP
+rice,sandy,potassium,DAP
+millet,clay,nitrogen,super phosphate
+cotton,sandy,phosphorus,urea
+millet,sandy,phosphorus,DAP
+millet,sandy,phosphorus,super phosphate
+maize,loamy,phosphorus,super phosphate
+cotton,loamy,phosphorus,super phosphate
+cotton,sandy,nitrogen,MOP
+millet,clay,phosphorus,super phosphate
+wheat,clay,potassium,urea
+rice,sandy,nitrogen,urea
+maize,sandy,nitrogen,urea
+millet,loamy,potassium,super phosphate
+rice,loamy,potassium,DAP
+barley,loamy,potassium,urea
+barley,clay,potassium,DAP
+millet,clay,potassium,super phosphate
+millet,sandy,potassium,MOP
+maize,sandy,potassium,urea
+cotton,loamy,nitrogen,DAP
+maize,clay,phosphorus,DAP
+cotton,loamy,nitrogen,super phosphate
+barley,loamy,nitrogen,MOP
+rice,loamy,potassium,DAP
+cotton,clay,phosphorus,MOP
+barley,loamy,phosphorus,DAP
+rice,sandy,potassium,super phosphate
+maize,loamy,potassium,urea
+barley,sandy,phosphorus,urea
+wheat,clay,potassium,super phosphate
+wheat,loamy,phosphorus,urea
+rice,loamy,potassium,DAP
+barley,loamy,nitrogen,urea
+barley,loamy,nitrogen,urea
+cotton,sandy,nitrogen,super phosphate
+rice,loamy,nitrogen,DAP
+millet,loamy,nitrogen,super phosphate
+barley,loamy,phosphorus,MOP
+barley,clay,potassium,MOP
+rice,loamy,potassium,super phosphate
+maize,clay,phosphorus,super phosphate
+rice,loamy,potassium,DAP
+rice,clay,phosphorus,urea
+maize,loamy,phosphorus,MOP
+rice,clay,potassium,DAP
+barley,sandy,phosphorus,urea
+barley,loamy,potassium,super phosphate
+millet,sandy,nitrogen,MOP
+barley,sandy,potassium,super phosphate
+maize,clay,nitrogen,urea
+maize,clay,phosphorus,urea
+millet,clay,nitrogen,MOP
+barley,sandy,potassium,urea
+barley,loamy,phosphorus,MOP
+barley,clay,phosphorus,DAP
+cotton,clay,potassium,DAP
+maize,loamy,nitrogen,MOP
+millet,clay,potassium,super phosphate
+maize,loamy,potassium,urea
+millet,sandy,potassium,DAP
+maize,sandy,potassium,DAP
+maize,clay,nitrogen,super phosphate
+rice,loamy,nitrogen,DAP
+barley,clay,potassium,DAP
+rice,clay,phosphorus,super phosphate
+cotton,loamy,potassium,DAP
+maize,loamy,phosphorus,super phosphate
+rice,sandy,phosphorus,urea
+wheat,clay,phosphorus,MOP
+wheat,loamy,potassium,super phosphate
+maize,loamy,nitrogen,DAP
+rice,clay,nitrogen,MOP
+maize,loamy,phosphorus,MOP
+cotton,clay,phosphorus,DAP
+wheat,loamy,phosphorus,MOP
+wheat,clay,nitrogen,urea
+millet,sandy,nitrogen,MOP
+wheat,sandy,phosphorus,MOP
+maize,sandy,phosphorus,DAP
+cotton,loamy,nitrogen,urea
+maize,sandy,potassium,urea
+rice,sandy,potassium,DAP
+maize,sandy,phosphorus,urea
+rice,sandy,potassium,MOP
+wheat,sandy,phosphorus,DAP
+cotton,sandy,nitrogen,urea
+maize,clay,phosphorus,MOP
+cotton,loamy,phosphorus,super phosphate
+millet,sandy,nitrogen,super phosphate
+rice,loamy,phosphorus,urea
+maize,sandy,phosphorus,DAP
+wheat,clay,potassium,urea
+millet,clay,potassium,super phosphate
+barley,sandy,potassium,urea
+maize,loamy,potassium,super phosphate
+cotton,loamy,phosphorus,MOP
+maize,clay,nitrogen,DAP
+cotton,clay,potassium,urea
+cotton,loamy,potassium,MOP
+wheat,clay,phosphorus,MOP
+cotton,clay,nitrogen,DAP
+rice,sandy,nitrogen,MOP
+rice,sandy,nitrogen,MOP
+maize,loamy,nitrogen,DAP
+maize,sandy,nitrogen,urea
+millet,loamy,potassium,MOP
+wheat,clay,potassium,MOP
+millet,clay,phosphorus,MOP
+wheat,clay,potassium,urea
+wheat,clay,potassium,MOP
+maize,loamy,nitrogen,urea
+millet,sandy,potassium,super phosphate
+millet,loamy,potassium,DAP
+barley,clay,phosphorus,MOP
+maize,sandy,potassium,super phosphate
+maize,loamy,nitrogen,super phosphate
+wheat,clay,phosphorus,urea
+barley,clay,phosphorus,DAP
+maize,clay,potassium,super phosphate
+millet,clay,potassium,MOP
+rice,loamy,nitrogen,DAP
+barley,sandy,potassium,DAP
+rice,clay,nitrogen,super phosphate
+maize,loamy,potassium,super phosphate
+rice,sandy,potassium,DAP
+millet,clay,potassium,urea
+barley,loamy,nitrogen,urea
+rice,sandy,nitrogen,DAP
+maize,clay,phosphorus,DAP
+millet,sandy,nitrogen,urea
+rice,sandy,potassium,MOP
+millet,clay,nitrogen,DAP
+barley,sandy,phosphorus,DAP
+wheat,loamy,phosphorus,DAP
+maize,clay,potassium,MOP
+millet,sandy,nitrogen,urea
+rice,clay,potassium,MOP
+rice,sandy,phosphorus,DAP
+rice,clay,nitrogen,DAP
+barley,loamy,nitrogen,MOP
+millet,loamy,nitrogen,super phosphate
+millet,sandy,nitrogen,super phosphate
+maize,clay,nitrogen,urea
+wheat,loamy,nitrogen,MOP
+rice,loamy,nitrogen,urea
+cotton,clay,nitrogen,super phosphate
+cotton,loamy,potassium,DAP
+millet,loamy,nitrogen,MOP
+cotton,loamy,phosphorus,urea
+wheat,loamy,potassium,MOP
+wheat,sandy,nitrogen,urea
+maize,sandy,nitrogen,MOP
+maize,loamy,phosphorus,super phosphate
+rice,clay,potassium,super phosphate
+millet,loamy,nitrogen,urea
+wheat,clay,nitrogen,super phosphate
+wheat,loamy,phosphorus,super phosphate
+barley,sandy,phosphorus,MOP
+maize,sandy,nitrogen,super phosphate
+barley,sandy,phosphorus,super phosphate
+cotton,sandy,nitrogen,super phosphate
+rice,sandy,potassium,super phosphate
+cotton,sandy,potassium,DAP
+millet,clay,nitrogen,MOP
+rice,clay,nitrogen,MOP
+cotton,loamy,nitrogen,urea
+rice,loamy,phosphorus,DAP
+wheat,loamy,nitrogen,super phosphate
+maize,clay,nitrogen,urea
+millet,clay,nitrogen,DAP
+barley,sandy,nitrogen,super phosphate
+wheat,clay,potassium,urea
+millet,sandy,nitrogen,super phosphate
+cotton,clay,nitrogen,DAP
+wheat,clay,nitrogen,DAP
+rice,clay,potassium,super phosphate
+maize,clay,phosphorus,DAP
+millet,sandy,potassium,MOP
+barley,loamy,potassium,MOP
+barley,sandy,potassium,urea
+wheat,clay,nitrogen,urea
+millet,clay,potassium,DAP
+cotton,clay,nitrogen,super phosphate
+barley,sandy,phosphorus,MOP
+cotton,sandy,phosphorus,DAP
+barley,clay,phosphorus,urea
+cotton,loamy,nitrogen,DAP
+barley,sandy,nitrogen,DAP
+barley,clay,potassium,urea
+millet,loamy,phosphorus,MOP
+millet,sandy,phosphorus,super phosphate
+maize,clay,phosphorus,super phosphate
+maize,loamy,nitrogen,urea
+rice,loamy,potassium,MOP
+rice,clay,phosphorus,DAP
+cotton,clay,nitrogen,DAP
+cotton,clay,phosphorus,DAP
+cotton,clay,potassium,urea
+maize,loamy,nitrogen,urea
+cotton,loamy,nitrogen,urea
+wheat,clay,phosphorus,urea
+wheat,loamy,phosphorus,DAP
+wheat,loamy,potassium,MOP
+maize,sandy,potassium,urea
+wheat,loamy,potassium,urea
+cotton,clay,nitrogen,super phosphate
+barley,sandy,nitrogen,MOP
+maize,clay,potassium,super phosphate
+rice,sandy,nitrogen,DAP
+maize,sandy,potassium,DAP
+millet,clay,potassium,MOP
+barley,clay,phosphorus,MOP
+wheat,sandy,phosphorus,urea
+millet,sandy,phosphorus,DAP
+maize,sandy,potassium,urea
+maize,sandy,potassium,super phosphate
+rice,clay,nitrogen,MOP
+cotton,clay,phosphorus,urea
+barley,loamy,nitrogen,MOP
+maize,clay,phosphorus,MOP
+wheat,clay,nitrogen,DAP
+millet,loamy,phosphorus,super phosphate
+wheat,loamy,potassium,DAP
+rice,sandy,phosphorus,urea
+wheat,loamy,phosphorus,super phosphate
+cotton,sandy,nitrogen,super phosphate
+wheat,sandy,potassium,MOP
+wheat,clay,potassium,super phosphate
+cotton,loamy,phosphorus,urea
+cotton,sandy,nitrogen,DAP
+millet,sandy,nitrogen,DAP
+rice,loamy,phosphorus,DAP
+cotton,loamy,nitrogen,DAP
+barley,loamy,potassium,urea
+wheat,loamy,phosphorus,super phosphate
+rice,clay,nitrogen,urea
+barley,loamy,nitrogen,super phosphate
+wheat,clay,phosphorus,MOP
+cotton,loamy,nitrogen,super phosphate
+rice,loamy,phosphorus,urea
+cotton,clay,phosphorus,DAP
+millet,clay,phosphorus,urea
+cotton,loamy,nitrogen,MOP
+barley,loamy,nitrogen,urea
+maize,clay,potassium,super phosphate
+wheat,loamy,potassium,DAP
+rice,clay,nitrogen,MOP
+barley,clay,phosphorus,super phosphate
+barley,sandy,nitrogen,MOP
+maize,clay,nitrogen,super phosphate
+wheat,loamy,nitrogen,DAP
+wheat,loamy,phosphorus,super phosphate
+cotton,sandy,nitrogen,super phosphate
+wheat,sandy,potassium,super phosphate
+rice,sandy,potassium,DAP
+rice,sandy,potassium,DAP
+wheat,sandy,potassium,MOP
+rice,clay,phosphorus,DAP
+barley,loamy,nitrogen,super phosphate
+wheat,sandy,potassium,urea
+barley,clay,potassium,super phosphate
+millet,sandy,nitrogen,urea
+maize,sandy,nitrogen,super phosphate
+millet,sandy,nitrogen,super phosphate
+maize,loamy,nitrogen,DAP
+millet,sandy,nitrogen,MOP
+wheat,clay,phosphorus,MOP
+cotton,clay,potassium,super phosphate
+millet,loamy,phosphorus,super phosphate
+wheat,loamy,potassium,super phosphate
+cotton,loamy,nitrogen,DAP
+barley,loamy,phosphorus,DAP
+cotton,sandy,nitrogen,super phosphate
+barley,loamy,potassium,super phosphate
+millet,loamy,potassium,urea
+rice,clay,nitrogen,urea
+cotton,loamy,nitrogen,super phosphate
+millet,sandy,potassium,urea
+millet,loamy,potassium,urea
+millet,loamy,phosphorus,DAP
+maize,loamy,potassium,super phosphate
+rice,clay,phosphorus,urea
+wheat,loamy,phosphorus,super phosphate
+rice,loamy,nitrogen,MOP
+wheat,sandy,phosphorus,MOP
+barley,sandy,nitrogen,urea
+barley,clay,nitrogen,urea
+maize,loamy,potassium,MOP
+wheat,clay,potassium,super phosphate
+maize,sandy,phosphorus,DAP
+cotton,sandy,phosphorus,urea
+cotton,loamy,nitrogen,super phosphate
+millet,clay,phosphorus,MOP
+cotton,clay,phosphorus,DAP
+rice,sandy,nitrogen,urea
+millet,sandy,phosphorus,MOP
+cotton,clay,phosphorus,DAP
+rice,clay,nitrogen,super phosphate
+rice,sandy,potassium,DAP
+rice,sandy,potassium,urea
+cotton,loamy,nitrogen,DAP
+barley,sandy,potassium,MOP
+maize,clay,potassium,DAP
+wheat,clay,potassium,DAP
+millet,loamy,phosphorus,urea
+wheat,clay,nitrogen,urea
+millet,sandy,nitrogen,urea
+barley,sandy,nitrogen,urea
+maize,loamy,phosphorus,DAP
+rice,clay,phosphorus,MOP
+maize,loamy,nitrogen,super phosphate
+rice,loamy,nitrogen,super phosphate
+millet,clay,nitrogen,super phosphate
+barley,loamy,potassium,super phosphate
+maize,clay,phosphorus,urea
+maize,sandy,potassium,urea
+rice,loamy,phosphorus,super phosphate
+cotton,sandy,potassium,urea
+maize,sandy,potassium,MOP
+rice,clay,potassium,urea
+cotton,clay,potassium,DAP
+maize,loamy,nitrogen,DAP
+rice,loamy,nitrogen,DAP
+rice,sandy,potassium,DAP
+wheat,loamy,phosphorus,DAP
+rice,loamy,potassium,MOP
+barley,sandy,phosphorus,super phosphate
+cotton,loamy,nitrogen,MOP
+maize,clay,potassium,MOP
+barley,clay,potassium,MOP
+maize,clay,potassium,super phosphate
+barley,loamy,phosphorus,MOP
+wheat,sandy,nitrogen,super phosphate
+barley,clay,potassium,MOP
+wheat,sandy,nitrogen,super phosphate
+maize,clay,potassium,MOP
+cotton,loamy,phosphorus,MOP
+barley,clay,nitrogen,DAP
+wheat,loamy,nitrogen,MOP
+maize,clay,nitrogen,MOP
+wheat,clay,phosphorus,urea
+rice,loamy,potassium,urea
+millet,loamy,nitrogen,super phosphate
+cotton,loamy,nitrogen,urea
+barley,loamy,potassium,DAP
+cotton,clay,nitrogen,MOP
+millet,sandy,potassium,urea
+cotton,sandy,phosphorus,super phosphate
+wheat,loamy,nitrogen,DAP
+rice,loamy,phosphorus,urea
+wheat,loamy,nitrogen,urea
+barley,clay,potassium,MOP
+cotton,loamy,nitrogen,urea
+wheat,clay,potassium,urea
+barley,loamy,nitrogen,super phosphate
+rice,sandy,potassium,urea
+wheat,sandy,nitrogen,urea
+barley,clay,phosphorus,MOP
+wheat,loamy,phosphorus,super phosphate
+rice,sandy,phosphorus,super phosphate
+cotton,clay,phosphorus,MOP
+millet,loamy,phosphorus,urea
+wheat,sandy,nitrogen,urea
+maize,clay,nitrogen,DAP
+rice,loamy,potassium,super phosphate
+maize,clay,nitrogen,DAP
+millet,loamy,potassium,urea
+millet,clay,phosphorus,urea
+rice,clay,phosphorus,urea
+wheat,loamy,potassium,super phosphate
+wheat,sandy,nitrogen,DAP
+cotton,loamy,nitrogen,DAP
+wheat,clay,potassium,super phosphate
+millet,loamy,potassium,urea
+cotton,sandy,nitrogen,super phosphate
+millet,loamy,phosphorus,MOP
+millet,loamy,nitrogen,urea
+wheat,loamy,potassium,urea
+wheat,sandy,nitrogen,DAP
+millet,clay,nitrogen,super phosphate
+rice,clay,nitrogen,DAP
+barley,loamy,nitrogen,super phosphate
+rice,loamy,nitrogen,MOP
+wheat,sandy,phosphorus,DAP
+cotton,clay,nitrogen,DAP
+wheat,loamy,phosphorus,DAP
+barley,clay,nitrogen,MOP
+barley,clay,potassium,MOP
+cotton,sandy,nitrogen,DAP
+barley,clay,potassium,urea
+maize,clay,phosphorus,DAP
+wheat,clay,phosphorus,super phosphate
+wheat,loamy,nitrogen,urea
+wheat,loamy,nitrogen,DAP
+barley,sandy,phosphorus,MOP
+rice,loamy,phosphorus,MOP
+rice,clay,potassium,super phosphate
+millet,loamy,nitrogen,MOP
+maize,loamy,nitrogen,MOP
+cotton,sandy,phosphorus,super phosphate
+rice,sandy,nitrogen,DAP
+rice,clay,nitrogen,urea
+rice,sandy,phosphorus,DAP
+rice,sandy,nitrogen,MOP
+maize,sandy,potassium,super phosphate
+barley,loamy,nitrogen,DAP
+millet,sandy,phosphorus,super phosphate
+maize,clay,nitrogen,MOP
+millet,loamy,potassium,MOP
+millet,clay,nitrogen,DAP
+cotton,sandy,potassium,super phosphate
+millet,loamy,potassium,DAP
+maize,loamy,potassium,urea
+maize,clay,phosphorus,super phosphate
+maize,clay,potassium,super phosphate
+barley,loamy,nitrogen,DAP
+wheat,clay,nitrogen,urea
+cotton,loamy,phosphorus,urea
+barley,clay,phosphorus,urea
+rice,clay,potassium,MOP
+maize,sandy,potassium,DAP
+maize,clay,nitrogen,MOP
+millet,loamy,phosphorus,super phosphate
+millet,loamy,potassium,MOP
+millet,loamy,phosphorus,MOP
+barley,clay,phosphorus,MOP
+millet,loamy,potassium,super phosphate
+rice,loamy,potassium,urea
+maize,loamy,nitrogen,DAP
+wheat,loamy,nitrogen,DAP
+cotton,sandy,potassium,super phosphate
+wheat,clay,potassium,urea
+maize,loamy,potassium,urea
+wheat,sandy,potassium,super phosphate
+cotton,clay,phosphorus,MOP
+wheat,loamy,potassium,super phosphate
+wheat,loamy,nitrogen,urea
+cotton,sandy,potassium,MOP
+cotton,clay,phosphorus,super phosphate
+cotton,loamy,phosphorus,urea
+rice,loamy,potassium,DAP
+barley,sandy,nitrogen,MOP
+cotton,sandy,potassium,DAP
+wheat,loamy,phosphorus,urea
+wheat,clay,phosphorus,urea
+maize,loamy,potassium,urea
+rice,loamy,phosphorus,urea
+barley,loamy,potassium,urea
+rice,loamy,nitrogen,MOP
+wheat,sandy,potassium,DAP
+rice,sandy,phosphorus,DAP
+millet,clay,phosphorus,urea
+wheat,clay,nitrogen,super phosphate
+wheat,clay,potassium,super phosphate
+barley,loamy,nitrogen,MOP
+wheat,sandy,phosphorus,DAP
+cotton,loamy,potassium,MOP
+cotton,clay,potassium,DAP
+wheat,clay,phosphorus,DAP
+wheat,loamy,nitrogen,MOP
+cotton,sandy,phosphorus,DAP
+barley,loamy,nitrogen,DAP
+cotton,loamy,potassium,MOP
+cotton,sandy,potassium,MOP
+barley,loamy,phosphorus,super phosphate
+barley,loamy,phosphorus,urea
+cotton,clay,phosphorus,urea
+maize,sandy,phosphorus,DAP
+cotton,sandy,phosphorus,DAP
+cotton,sandy,potassium,MOP
+rice,loamy,nitrogen,super phosphate
+millet,clay,phosphorus,super phosphate
+rice,clay,nitrogen,MOP
+millet,clay,phosphorus,urea
+wheat,sandy,phosphorus,MOP
+rice,clay,potassium,urea
+millet,clay,potassium,DAP
+cotton,sandy,phosphorus,DAP
+maize,sandy,potassium,DAP
+wheat,sandy,phosphorus,urea
+barley,sandy,potassium,DAP
+rice,clay,nitrogen,DAP
+cotton,clay,potassium,urea
+maize,clay,nitrogen,super phosphate
+rice,sandy,phosphorus,super phosphate
+rice,clay,phosphorus,super phosphate
+barley,clay,nitrogen,MOP
+cotton,sandy,phosphorus,urea
+barley,clay,potassium,urea
+maize,clay,potassium,DAP
+maize,sandy,potassium,DAP
+barley,loamy,phosphorus,MOP
+millet,clay,potassium,super phosphate
+wheat,sandy,phosphorus,super phosphate
+barley,sandy,nitrogen,super phosphate
+barley,loamy,nitrogen,urea
+wheat,loamy,nitrogen,super phosphate
+rice,sandy,phosphorus,urea
+millet,sandy,potassium,super phosphate
+rice,loamy,nitrogen,super phosphate
+millet,loamy,phosphorus,urea
+maize,loamy,potassium,DAP
+wheat,sandy,potassium,super phosphate
+cotton,clay,nitrogen,DAP
+wheat,sandy,potassium,MOP
+barley,sandy,nitrogen,MOP
+millet,loamy,phosphorus,urea
+millet,loamy,phosphorus,super phosphate
+cotton,sandy,nitrogen,MOP
+maize,sandy,phosphorus,MOP
+cotton,sandy,phosphorus,urea
+rice,clay,potassium,DAP
+maize,clay,potassium,urea
+barley,sandy,phosphorus,MOP
+maize,sandy,nitrogen,urea
+maize,sandy,phosphorus,super phosphate
+rice,clay,potassium,MOP
+rice,clay,potassium,urea
+barley,loamy,potassium,urea
+maize,loamy,nitrogen,super phosphate
+barley,clay,potassium,DAP
+maize,loamy,phosphorus,super phosphate
+millet,loamy,nitrogen,DAP
+millet,clay,phosphorus,DAP
+rice,sandy,nitrogen,urea
+maize,clay,nitrogen,urea
+wheat,loamy,potassium,urea
+wheat,clay,potassium,super phosphate
+maize,clay,potassium,super phosphate
+cotton,loamy,phosphorus,DAP
+rice,loamy,phosphorus,super phosphate
+rice,sandy,nitrogen,DAP
+cotton,loamy,nitrogen,urea
+barley,clay,nitrogen,MOP
+rice,clay,phosphorus,MOP
+barley,sandy,phosphorus,urea
+maize,loamy,nitrogen,DAP
+cotton,sandy,potassium,MOP
+barley,sandy,nitrogen,urea
+cotton,loamy,phosphorus,urea
+rice,loamy,phosphorus,MOP
+maize,loamy,nitrogen,DAP
+maize,sandy,potassium,MOP
+millet,clay,nitrogen,super phosphate
+rice,sandy,potassium,urea
+wheat,clay,phosphorus,urea
+cotton,loamy,nitrogen,MOP
+millet,clay,nitrogen,urea
+barley,sandy,nitrogen,MOP
+barley,loamy,phosphorus,DAP
+rice,clay,nitrogen,DAP
+cotton,sandy,phosphorus,urea
+cotton,loamy,nitrogen,super phosphate
+barley,sandy,nitrogen,super phosphate
+millet,loamy,potassium,DAP
+rice,loamy,nitrogen,MOP
+wheat,clay,phosphorus,super phosphate
+rice,clay,nitrogen,urea
+cotton,clay,nitrogen,super phosphate
+millet,sandy,potassium,urea
+rice,sandy,nitrogen,urea
+rice,clay,nitrogen,super phosphate
+maize,loamy,nitrogen,MOP
+wheat,sandy,potassium,DAP
+wheat,clay,potassium,super phosphate
+barley,sandy,nitrogen,urea
+rice,loamy,potassium,DAP
+barley,sandy,potassium,MOP
+maize,loamy,potassium,MOP
+wheat,sandy,phosphorus,DAP
+cotton,loamy,phosphorus,urea
+rice,loamy,phosphorus,super phosphate
+wheat,clay,nitrogen,DAP
+cotton,clay,phosphorus,DAP
+rice,loamy,potassium,DAP
+rice,clay,potassium,super phosphate
+millet,loamy,nitrogen,urea
+barley,clay,phosphorus,MOP
+cotton,loamy,phosphorus,urea
