@@ -68,15 +68,35 @@ Step 4: Run the Application
 Open in your browser:
     http://127.0.0.1:5000/
 
-                    
+ 📸 Screenshots
 
-                                                                                                 	
-  
-        
-  
-                
-                 
-                                                                                                                                                                                         
+🏠 Home Page
+![Home Page](images/home.png)
+
+
+🌱 Crop Recommendation Form
+![Crop Form](images/crop_form.png)
+
+✅ Crop Prediction Result
+![Crop Result](images/crop_result.png)
+
+💊 Fertilizer Suggestion Form
+![Fertilizer Form](images/fertilizer_form.png)
+
+✅ Fertilizer Suggestion Result
+![Fertilizer Result](images/fertilizer_result.png)
+
+🐛 Pesticide Suggestion Form
+![Pesticide Form](images/pesticide_form.png)
+
+✅ Pesticide Suggestion Result
+![Pesticide Result](images/pesticide_result.png)
+
+💰 Crop Price Estimation Form
+![Price Form](images/price_form.png)
+
+✅ Price Estimation Result
+![Price Result](images/price_result.png)                                                                                                                                                                                  
 ✅ Smart Farming Tips
 
 - Ensure timely irrigation based on water requirements
