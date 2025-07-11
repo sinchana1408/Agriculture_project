@@ -71,32 +71,32 @@ Open in your browser:
  📸 Screenshots
 
 🏠 Home Page
-![Home Page](images/home.png)
+![Home Page](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20184022.png )
 
 
 🌱 Crop Recommendation Form
-![Crop Form](images/crop_form.png)
+![Crop Form](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183203.png)
 
 ✅ Crop Prediction Result
-![Crop Result](images/crop_result.png)
+![Crop Result](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183225.png)
 
 💊 Fertilizer Suggestion Form
-![Fertilizer Form](images/fertilizer_form.png)
+![Fertilizer Form](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183445.png)
 
 ✅ Fertilizer Suggestion Result
-![Fertilizer Result](images/fertilizer_result.png)
+![Fertilizer Result](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183500.png)
 
 🐛 Pesticide Suggestion Form
-![Pesticide Form](images/pesticide_form.png)
+![Pesticide Form](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183810.png)
 
 ✅ Pesticide Suggestion Result
-![Pesticide Result](images/pesticide_result.png)
+![Pesticide Result](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183734.png)
 
 💰 Crop Price Estimation Form
-![Price Form](images/price_form.png)
+![Price Form](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183913.png)
 
 ✅ Price Estimation Result
-![Price Result](images/price_result.png)                                                                                                                                                                                  
+![Price Result](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20183845.png)                                                                                                                                                                                  
 ✅ Smart Farming Tips
 
 - Ensure timely irrigation based on water requirements
