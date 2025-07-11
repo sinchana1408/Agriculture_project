@@ -15,9 +15,9 @@ This system helps improve agricultural decision-making for farmers, students, an
 - Pesticide Suggestion: Provides pest treatment suggestions using encoded crop-pest data.
 - Crop Price Estimation: Predicts the price per quintal using historical crop and region data.
 - Tips Section: Each result page includes expert tips for successful implementation.
+  
 **📁 Folder Structure**
-![Folder Structure](images/folder_structure.png)
-
+![Folder Structure](https://github.com/sinchana1408/Agriculture_project/blob/39394e0f97dbf11fd74ebe10ec29716d313d4054/Screenshot%202025-07-11%20085710.png)
 
 **🔧 How to Set Up and Run**
 
