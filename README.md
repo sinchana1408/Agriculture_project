@@ -16,36 +16,8 @@ This system helps improve agricultural decision-making for farmers, students, an
 - Crop Price Estimation: Predicts the price per quintal using historical crop and region data.
 - Tips Section: Each result page includes expert tips for successful implementation.
 **📁 Folder Structure**
+![Folder Structure](images/folder_structure.png)
 
-AGRI_RECOMMENDATION/
-├── backend/
-│   ├── datasets/
-│   │   ├── crop.csv
-│   │   ├── fertilizer.csv
-│   │   ├── pesticide.csv
-│   │   └── crop_price.csv
-│   ├── crop_model.pkl
-│   ├── fert_model.pkl
-│   ├── pest_model.pkl
-│   ├── price_model.pkl
-│   ├── fert_encoders.pkl
-│   ├── pest_encoders.pkl
-│   ├── price_encoders.pkl
-│   ├── train_crop_model.py
-│   ├── train_fert_model.py
-│   ├── train_pest_model.py
-│   ├── train_price_model.py
-│   ├── app.py
-│   └── templates/
-│       ├── index.html
-│       ├── crop.html
-│       ├── crop_result.html
-│       ├── fertilizer.html
-│       ├── fertilizer_result.html
-│       ├── pesticide.html
-│       ├── pesticide_result.html
-│       ├── price.html
-│       └── price_result.html
 
 **🔧 How to Set Up and Run**
 
@@ -67,8 +39,6 @@ Step 4: Run the Application
 
 Open in your browser:
     http://127.0.0.1:5000/
-    
-** 📸 Screenshots**
 
 **🏠 Home Page**
 ![Home Page](https://github.com/sinchana1408/Agriculture_project/blob/f1f14645414e64852a0d7d180e940aa926f02468/Screenshot%202025-07-07%20184022.png )
