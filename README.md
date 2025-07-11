@@ -1,5 +1,5 @@
 Agri Recommendation System
-Empowering Smart Farming with ML— Predict Crops, Suggest Fertilizers and Pesticides, Estimate Market Prices
+Empowering Smart Farming **with ML— Pred**ict Crops, Suggest Fertilizers and Pesticides, Estimate Market Prices
 📌 Overview
 The Agri Recommendation System is a smart farming web app built using machine learning. It takes soil nutrients and weather conditions as input and recommends:
 
