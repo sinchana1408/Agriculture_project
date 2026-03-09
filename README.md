@@ -1,6 +1,6 @@
 # Agri Recommendation System**
 Empowering Smart Farming with ML— Predict Crops, Suggest Fertilizers and Pesticides, Estimate Market Prices
-# # Overview
+## Overview
 The Agri Recommendation System is a smart farming web app built using machine learning. It takes soil nutrients and weather conditions as input and recommends:
 
 - The best crop to grow 🌱
@@ -9,18 +9,18 @@ The Agri Recommendation System is a smart farming web app built using machine le
 - Estimated crop market price 💰
 
 This system helps improve agricultural decision-making for farmers, students, and researchers.
-# # Core Features
+## Core Features
 - Crop Recommendation: Uses N, P, K, temperature, humidity, pH, and rainfall to recommend the most suitable crop.
 - Fertilizer Recommendation: Based on soil and crop type, recommends the correct balance of nutrients.
 - Pesticide Suggestion: Provides pest treatment suggestions using encoded crop-pest data.
 - Crop Price Estimation: Predicts the price per quintal using historical crop and region data.
 - Tips Section: Each result page includes expert tips for successful implementation.
   
-# # Folder Structure
+## Folder Structure
 
 ![Folder Structure](https://github.com/sinchana1408/Agriculture_project/blob/39394e0f97dbf11fd74ebe10ec29716d313d4054/Screenshot%202025-07-11%20085710.png)
 
-# # # How to Set Up and Run
+### How to Set Up and Run
 
 Step 1: Clone the Repository
     git clone https://github.com/your-username/agri-recommendation.git
